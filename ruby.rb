@@ -7,7 +7,8 @@ end
 def dance
   "feel it"
 end
-m=Artist.new="lii"
+m=Artist.new
+m="dddd"
 
 end
 puts Artist.listen_music
