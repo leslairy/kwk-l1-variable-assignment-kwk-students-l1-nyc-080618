@@ -12,7 +12,7 @@ m=Artist.new
 end
 puts Artist.listen_music
 
-puts Artist.m.dance
+puts Artist.m
 
 
 
