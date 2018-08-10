@@ -9,7 +9,7 @@ end
 end
 m=Artist.new
 
-
+end
 
 puts Artist.listen_music
 
