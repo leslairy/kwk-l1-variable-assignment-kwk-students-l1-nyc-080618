@@ -14,7 +14,7 @@ m="dddd"
 
 puts Artist.listen_music
 
-puts Artist.m
+puts m.dance
 
 
 
