@@ -1,10 +1,10 @@
 class Artist
 def self.listen_music
-  "lets"
+  "turn on"
 end
+end
+puts Artist.listen_music
 
-
-#
 
 
 
