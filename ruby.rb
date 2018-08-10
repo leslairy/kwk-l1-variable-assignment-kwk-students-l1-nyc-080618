@@ -1,5 +1,6 @@
 class Artist
-def 
+def self.listen_music
+  ""
 
 
 
